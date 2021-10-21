@@ -23,9 +23,9 @@
 	</parent>
 
 	<scm>
-		<connection>scm:git:git@github.com:codecentric/conference-app.git</connection>
-		<url>https://github.com/codecentric/conference-app</url>
-		<developerConnection>scm:git:git@github.com:codecentric/conference-app.git</developerConnection>
+		<connection>scm:git:git@github.com:romancin/conference-app.git</connection>
+		<url>https://github.com/romancin/conference-app</url>
+		<developerConnection>scm:git:git@github.com:romancin/conference-app.git</developerConnection>
 	</scm>
 
 	<dependencies>
