@@ -23,7 +23,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="home">JavaLand 2018</a>
+            <a class="navbar-brand" href="home">JavaLand 2022</a>
           </div>
 
           <div class="collapse navbar-collapse" id="navbar" >
